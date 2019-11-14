@@ -4,7 +4,7 @@ Methods : Regression model to predict the percentage of votes of Hilary Clinton 
 Accuracy metrics : WMSE
 
 ## Table of contents
-###1-Simple Regression Model (5 predictors/covariates with simple variable transformation) 
+### 1-Simple Regression Model (5 predictors/covariates with simple variable transformation) 
 
 -Modal
 
@@ -16,7 +16,7 @@ Accuracy metrics : WMSE
 
 -Collinearity Diagnosis
 
-###2-Full Regression Model (multiple linear regression models with feature engineering, quadratic, interaction, or indicator variables)
+### 2-Full Regression Model (multiple linear regression models with feature engineering, quadratic, interaction effects, or indicator variables)
 
 -Full Run
 
