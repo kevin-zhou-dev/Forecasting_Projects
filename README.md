@@ -6,7 +6,7 @@ Accuracy metrics : WMSE
 ## Table of contents
 ### 1-Simple Regression Model (5 predictors/covariates with simple variable transformation) 
 
--Modal
+-Model fitting
 
 -Results Analysis
 
