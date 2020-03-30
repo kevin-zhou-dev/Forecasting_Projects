@@ -27,15 +27,27 @@ Accuracy metrics : WMSE
 ## Table of contents
 
 ### 1- Regression on time
-1.1 Regression on time
-1.2 Diagnostic check 
-1.3 Model interpretation
+
+-1.1 Regression on time
+
+-1.2 Diagnostic check 
+
+-1.3 Model interpretation
+
 ### 2- Exponential Smoothing
-2.1 Naive application of Exponential smoothing
-2.2 Verification of model choice, upsides and downsides
-2.3 Holt-Winters exponential smoothing
+
+-2.1 Naive application of Exponential smoothing
+
+-2.2 Verification of model choice, upsides and downsides
+
+-2.3 Holt-Winters exponential smoothing
+
 ### 3- Free form forecasting
-3.1 Data cleaning
-3.2 Linear regression
-3.3 Linear regression with ARIMA errors
-3.4 Further Improvements
+
+-3.1 Data cleaning
+
+-3.2 Linear regression
+
+-3.3 Linear regression with ARIMA errors
+
+-3.4 Further Improvements
